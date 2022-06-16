@@ -1,0 +1,751 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Xtra v1.0\n"
+"POT-Creation-Date: 2021-07-27 12:54-0300\n"
+"PO-Revision-Date: 2018-02-12 17:51+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;_n;esc_html_e;esc_attr_e;_n_noop;esc_html__;"
+"esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-dashboard.php:41
+msgid "Activation"
+msgstr ""
+
+#: classes/class-dashboard.php:42
+msgid "Demo Importer"
+msgstr ""
+
+#: classes/class-dashboard.php:43 classes/class-dashboard.php:824
+msgid "Install Plugins"
+msgstr ""
+
+#: classes/class-dashboard.php:44 classes/class-dashboard.php:510
+#: classes/class-dashboard.php:1047
+msgid "Theme Options"
+msgstr ""
+
+#: classes/class-dashboard.php:45 classes/class-dashboard.php:1144
+msgid "System Status"
+msgstr ""
+
+#: classes/class-dashboard.php:46
+msgid "Uninstall Demo"
+msgstr ""
+
+#: classes/class-dashboard.php:82 classes/class-dashboard.php:501
+msgid "Codevz Plus"
+msgstr ""
+
+#: classes/class-dashboard.php:88 classes/class-dashboard.php:503
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: classes/class-dashboard.php:93 classes/class-dashboard.php:502
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: classes/class-dashboard.php:99 classes/class-dashboard.php:504
+#: classes/class-dashboard.php:512 classes/class-dashboard.php:1052
+msgid "Revolution Slider"
+msgstr ""
+
+#: classes/class-dashboard.php:105
+msgid "Woocommerce"
+msgstr ""
+
+#: classes/class-dashboard.php:110 classes/class-dashboard.php:505
+msgid "Contact Form 7"
+msgstr ""
+
+#: classes/class-dashboard.php:115
+msgid "Autoptimize"
+msgstr ""
+
+#: classes/class-dashboard.php:120
+msgid "EWWW Image Optimizer"
+msgstr ""
+
+#: classes/class-dashboard.php:495
+msgid "of"
+msgstr ""
+
+#: classes/class-dashboard.php:496
+msgid "Close"
+msgstr ""
+
+#: classes/class-dashboard.php:497
+msgid "Installing"
+msgstr ""
+
+#: classes/class-dashboard.php:498
+msgid "Activated"
+msgstr ""
+
+#: classes/class-dashboard.php:499
+msgid "Importing"
+msgstr ""
+
+#: classes/class-dashboard.php:500
+msgid "Imported"
+msgstr ""
+
+#: classes/class-dashboard.php:506 classes/class-dashboard.php:1051
+msgid "WooCommerce"
+msgstr ""
+
+#: classes/class-dashboard.php:507
+msgid "Downloading"
+msgstr ""
+
+#: classes/class-dashboard.php:508
+msgid "Demo Files"
+msgstr ""
+
+#: classes/class-dashboard.php:509
+msgid "Downloaded"
+msgstr ""
+
+#: classes/class-dashboard.php:511 classes/class-dashboard.php:1048
+msgid "Widgets"
+msgstr ""
+
+#: classes/class-dashboard.php:513 classes/class-dashboard.php:1049
+msgid "Pages & Posts"
+msgstr ""
+
+#: classes/class-dashboard.php:514
+msgid "Images"
+msgstr ""
+
+#: classes/class-dashboard.php:515
+msgid "PHP error 500, Internal server error."
+msgstr ""
+
+#: classes/class-dashboard.php:516
+msgid ""
+"An error has occured, please check your internet connection and try "
+"again."
+msgstr ""
+
+#: classes/class-dashboard.php:517
+msgid "Choose at least one feature to import."
+msgstr ""
+
+#: classes/class-dashboard.php:535 classes/class-dashboard.php:568
+msgid "XTRA"
+msgstr ""
+
+#: classes/class-dashboard.php:572
+#, php-format
+msgid "Welcome to %s WordPress Theme"
+msgstr ""
+
+#: classes/class-dashboard.php:572
+msgid "Current version:"
+msgstr ""
+
+#: classes/class-dashboard.php:606 classes/class-dashboard.php:1082
+msgid "https://xtratheme.com/docs"
+msgstr ""
+
+#: classes/class-dashboard.php:606
+msgid "Documentation"
+msgstr ""
+
+#: classes/class-dashboard.php:607
+msgid "https://www.youtube.com/channel/UCrS1L4oeTRfU1hvIo1gJGjg/videos"
+msgstr ""
+
+#: classes/class-dashboard.php:607
+msgid "Video Tutorials"
+msgstr ""
+
+#: classes/class-dashboard.php:608
+msgid "https://xtratheme.com/changelog"
+msgstr ""
+
+#: classes/class-dashboard.php:608
+msgid "Change Log"
+msgstr ""
+
+#: classes/class-dashboard.php:609
+msgid "https://codevz.ticksy.com"
+msgstr ""
+
+#: classes/class-dashboard.php:609
+msgid "Support"
+msgstr ""
+
+#: classes/class-dashboard.php:610
+msgid "https://xtratheme.com/faqs"
+msgstr ""
+
+#: classes/class-dashboard.php:610
+msgid "F.A.Q"
+msgstr ""
+
+#: classes/class-dashboard.php:684
+msgid "Activation Certificate"
+msgstr ""
+
+#: classes/class-dashboard.php:686
+msgid "Deregister License"
+msgstr ""
+
+#: classes/class-dashboard.php:690
+msgid "Your Purchase Code"
+msgstr ""
+
+#: classes/class-dashboard.php:694
+msgid "Purchase date:"
+msgstr ""
+
+#: classes/class-dashboard.php:696
+msgid "Support until:"
+msgstr ""
+
+#: classes/class-dashboard.php:704
+msgid ""
+"Your support has been expired, Click on below link and extend your "
+"support."
+msgstr ""
+
+#: classes/class-dashboard.php:708
+msgid "Buy extended support or new license"
+msgstr ""
+
+#: classes/class-dashboard.php:748
+msgid "License Activation"
+msgstr ""
+
+#: classes/class-dashboard.php:759
+msgid "Your license code on this website deregistered successfully."
+msgstr ""
+
+#: classes/class-dashboard.php:767
+msgid "Please insert a valid license code."
+msgstr ""
+
+#: classes/class-dashboard.php:777 classes/class-dashboard.php:1067
+msgid "Congratulation"
+msgstr ""
+
+#: classes/class-dashboard.php:777
+msgid "Your theme activated successfully."
+msgstr ""
+
+#: classes/class-dashboard.php:797
+msgid ""
+"Please activate your theme via purchase code to access theme "
+"features, updates and demo importer."
+msgstr ""
+
+#: classes/class-dashboard.php:799
+msgid "Please insert purchase code ..."
+msgstr ""
+
+#: classes/class-dashboard.php:799 classes/class-dashboard.php:871
+msgid "Activate"
+msgstr ""
+
+#: classes/class-dashboard.php:801
+msgid "How to find purchase code?"
+msgstr ""
+
+#: classes/class-dashboard.php:803
+msgid "Buy new license"
+msgstr ""
+
+#: classes/class-dashboard.php:845
+msgid "Required"
+msgstr ""
+
+#: classes/class-dashboard.php:849
+msgid "Recommended"
+msgstr ""
+
+#: classes/class-dashboard.php:862
+msgid "Private Repository"
+msgstr ""
+
+#: classes/class-dashboard.php:862
+msgid "Premium"
+msgstr ""
+
+#: classes/class-dashboard.php:864
+msgid "WordPress Repository"
+msgstr ""
+
+#: classes/class-dashboard.php:864
+msgid "Free version"
+msgstr ""
+
+#: classes/class-dashboard.php:873
+msgid "Activated successfully"
+msgstr ""
+
+#: classes/class-dashboard.php:877
+msgid "Install & Activate"
+msgstr ""
+
+#: classes/class-dashboard.php:879
+msgid "Installed & Activated"
+msgstr ""
+
+#: classes/class-dashboard.php:883 classes/class-dashboard.php:1247
+msgid "Please wait"
+msgstr ""
+
+#: classes/class-dashboard.php:901
+msgid ""
+"You have installed all the plugins and there is no any plugin to "
+"install."
+msgstr ""
+
+#: classes/class-dashboard.php:924
+msgid "Fitlers:"
+msgstr ""
+
+#: classes/class-dashboard.php:926
+msgid "All"
+msgstr ""
+
+#: classes/class-dashboard.php:927 classes/class-dashboard.php:1032
+msgid "WPBakery"
+msgstr ""
+
+#: classes/class-dashboard.php:928 classes/class-dashboard.php:1033
+msgid "Elementor"
+msgstr ""
+
+#: classes/class-dashboard.php:930
+msgid "e.g. business, rtl, elementor, service"
+msgstr ""
+
+#: classes/class-dashboard.php:967
+msgid "Unlock"
+msgstr ""
+
+#: classes/class-dashboard.php:971
+msgid "Import"
+msgstr ""
+
+#: classes/class-dashboard.php:977 classes/class-dashboard.php:1247
+msgid "Uninstall"
+msgstr ""
+
+#: classes/class-dashboard.php:981
+msgid "Preview"
+msgstr ""
+
+#: classes/class-dashboard.php:998 classes/class-dashboard.php:1083
+msgid "Back to demos"
+msgstr ""
+
+#: classes/class-dashboard.php:1018
+msgid "Welcome to"
+msgstr ""
+
+#: classes/class-dashboard.php:1018
+msgid "Xtra Demo Importer Wizard"
+msgstr ""
+
+#: classes/class-dashboard.php:1020
+msgid "Selected demo:"
+msgstr ""
+
+#: classes/class-dashboard.php:1022
+msgid "Live Preview"
+msgstr ""
+
+#: classes/class-dashboard.php:1029
+msgid "Choose page builder:"
+msgstr ""
+
+#: classes/class-dashboard.php:1033
+msgid "Elementor version will be available soon."
+msgstr ""
+
+#: classes/class-dashboard.php:1036
+msgid ""
+"By checking this field, wizard will import Arabic version of current "
+"demo that you have selected."
+msgstr ""
+
+#: classes/class-dashboard.php:1036
+msgid "RTL version?"
+msgstr ""
+
+#: classes/class-dashboard.php:1043
+msgid "Full Import"
+msgstr ""
+
+#: classes/class-dashboard.php:1044
+msgid "Custom Import"
+msgstr ""
+
+#: classes/class-dashboard.php:1050
+msgid "Images & Media"
+msgstr ""
+
+#: classes/class-dashboard.php:1068
+msgid "Your website has been imported successfully."
+msgstr ""
+
+#: classes/class-dashboard.php:1070
+msgid "View your website"
+msgstr ""
+
+#: classes/class-dashboard.php:1071
+msgid "Customize webiste"
+msgstr ""
+
+#: classes/class-dashboard.php:1079
+msgid "Error!"
+msgstr ""
+
+#: classes/class-dashboard.php:1080 classes/class-dashboard.php:1563
+msgid "An error has occured, Please try again."
+msgstr ""
+
+#: classes/class-dashboard.php:1082
+msgid "Troubleshooting"
+msgstr ""
+
+#: classes/class-dashboard.php:1096
+msgid "Prev Step"
+msgstr ""
+
+#: classes/class-dashboard.php:1099
+msgid "Getting Started"
+msgstr ""
+
+#: classes/class-dashboard.php:1100
+msgid "Choose Builder"
+msgstr ""
+
+#: classes/class-dashboard.php:1101
+msgid "Configuration"
+msgstr ""
+
+#: classes/class-dashboard.php:1102
+msgid "Please wait, Importing"
+msgstr ""
+
+#: classes/class-dashboard.php:1106
+msgid "Next Step"
+msgstr ""
+
+#: classes/class-dashboard.php:1151 classes/class-dashboard.php:1155
+msgid "Server PHP Version"
+msgstr ""
+
+#: classes/class-dashboard.php:1151 classes/class-dashboard.php:1163
+#: classes/class-dashboard.php:1175 classes/class-dashboard.php:1187
+#: classes/class-dashboard.php:1198 classes/class-dashboard.php:1202
+msgid "Good"
+msgstr ""
+
+#: classes/class-dashboard.php:1155
+msgid "PHP 8.0 or above recommended"
+msgstr ""
+
+#: classes/class-dashboard.php:1163 classes/class-dashboard.php:1167
+msgid "Server PHP Memory Limit"
+msgstr ""
+
+#: classes/class-dashboard.php:1167
+msgid "128M recommended"
+msgstr ""
+
+#: classes/class-dashboard.php:1175 classes/class-dashboard.php:1179
+msgid "Server PHP Post Max Size"
+msgstr ""
+
+#: classes/class-dashboard.php:1179
+msgid "8 recommended"
+msgstr ""
+
+#: classes/class-dashboard.php:1187
+msgid "Server PHP Max Execution Time"
+msgstr ""
+
+#: classes/class-dashboard.php:1191
+msgid "PHP Max Execution Time"
+msgstr ""
+
+#: classes/class-dashboard.php:1191
+msgid "30 recommended"
+msgstr ""
+
+#: classes/class-dashboard.php:1198 classes/class-dashboard.php:1202
+msgid "Server PHP"
+msgstr ""
+
+#: classes/class-dashboard.php:1198 classes/class-dashboard.php:1202
+msgid "Active"
+msgstr ""
+
+#: classes/class-dashboard.php:1206
+msgid "PHP cURL or allow_url_fopen is required."
+msgstr ""
+
+#: classes/class-dashboard.php:1206
+msgid "Contact with your server support."
+msgstr ""
+
+#: classes/class-dashboard.php:1227
+msgid "Uninstall Demo(s)"
+msgstr ""
+
+#: classes/class-dashboard.php:1259
+msgid "You have not imported any demo yet."
+msgstr ""
+
+#: classes/class-dashboard.php:1271
+msgid "Are you sure for this?"
+msgstr ""
+
+#: classes/class-dashboard.php:1273
+msgid ""
+"This will be deleted all your website data such as posts, pages, "
+"attachments, theme options, sliders, etc. and there is no undo button "
+"for this action."
+msgstr ""
+
+#: classes/class-dashboard.php:1277
+msgid "No, never mind"
+msgstr ""
+
+#: classes/class-dashboard.php:1278
+msgid "Uninstalling, Please wait"
+msgstr ""
+
+#: classes/class-dashboard.php:1278
+msgid "Yes please"
+msgstr ""
+
+#: classes/class-dashboard.php:1285
+msgid "Demo \"DEMONAME\" uninstalled successfully."
+msgstr ""
+
+#: classes/class-dashboard.php:1286
+msgid "Reload page"
+msgstr ""
+
+#: classes/class-dashboard.php:1334
+msgid "Envato error: Your license code is invalid."
+msgstr ""
+
+#: classes/class-dashboard.php:1349
+msgid "Envato API error:"
+msgstr ""
+
+#: classes/class-dashboard.php:1359
+msgid "Envato error: The purchase code does not exist."
+msgstr ""
+
+#: classes/class-dashboard.php:1366
+msgid "Envato error: Failed to validate code due to an HTTP error"
+msgstr ""
+
+#: classes/class-dashboard.php:1375
+msgid "Envato error: Please try again in 10 seconds."
+msgstr ""
+
+#: classes/class-dashboard.php:1380
+msgid "Envato error: Parsing response."
+msgstr ""
+
+#: classes/class-dashboard.php:1385
+msgid ""
+"Envato error: Your purchase code is valid but it seems its for "
+"another item, Please add correct purchase code."
+msgstr ""
+
+#: classes/class-dashboard.php:1414
+msgid "Something went wrong, Please try again in 10 seconds."
+msgstr ""
+
+#: classes/class-dashboard.php:1426
+msgid ""
+"Your license not found in our database, Please check your license and "
+"try again ..."
+msgstr ""
+
+#: classes/class-dashboard.php:1485
+msgid "AJAX requested name is empty, Please try again."
+msgstr ""
+
+#: classes/class-dashboard.php:1497
+msgid "Redirected successfully."
+msgstr ""
+
+#: classes/class-dashboard.php:1519
+#, php-format
+msgid ""
+"Could not find plugin \"%s\" API, Please refresh page and try again."
+msgstr ""
+
+#: classes/class-dashboard.php:1534
+msgid "Codevz plus plugin is not installed or activated."
+msgstr ""
+
+#: classes/class-dashboard.php:1589
+#, php-format
+msgid "Plugin \"%s\" is no listed as a valid plugin."
+msgstr ""
+
+#: classes/class-dashboard.php:1612
+msgid "WP_Filesystem required FTP login details"
+msgstr ""
+
+#: classes/class-dashboard.php:1626
+msgid "Could not connect to server FTP with WP_Filesystem function."
+msgstr ""
+
+#: classes/class-dashboard.php:1642
+msgid "WordPress API Error:"
+msgstr ""
+
+#: classes/class-dashboard.php:1655
+#, php-format
+msgid ""
+"Could not download \"%s\" plugin ZIP file, Please go to Appearance > "
+"Install Plugins and install it manually, and try again demo importer."
+msgstr ""
+
+#: classes/class-dashboard.php:1700
+#, php-format
+msgid ""
+"Install failed for \"%s\" plugin, Please increase your server PHP "
+"max_execution_time e.g. 300"
+msgstr ""
+
+#: classes/class-dashboard.php:1717
+msgid "Plugin activation error, "
+msgstr ""
+
+#: classes/class-dashboard.php:1728
+#, php-format
+msgid "Plugin \"%s\" installed and activated successfully."
+msgstr ""
+
+#: classes/class-dashboard.php:1755
+msgid "Plugin API error:"
+msgstr ""
+
+#: classes/class-dashboard.php:1898
+#, php-format
+msgid "Demo \"%s\" uninstalled successfully."
+msgstr ""
+
+#: classes/class-dashboard.php:1907
+#, php-format
+msgid "Could not uninstall \"%s\" demo."
+msgstr ""
+
+#: classes/class-settings.php:366
+msgid "Copyright © All Rights Reserved."
+msgstr ""
+
+#: functions.php:150 functions.php:443
+msgid "Primary"
+msgstr ""
+
+#: functions.php:444
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:445
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:446
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:447
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:448
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:449
+msgid "Footer 5"
+msgstr ""
+
+#: functions.php:450
+msgid "Footer 6"
+msgstr ""
+
+#: functions.php:451
+msgid "Offcanvas"
+msgstr ""
+
+#: functions.php:452
+msgid "Shop primary"
+msgstr ""
+
+#: functions.php:453
+msgid "Shop secondary"
+msgstr ""
+
+#: functions.php:454
+msgid "Portfolio primary"
+msgstr ""
+
+#: functions.php:455
+msgid "Portfolio secondary"
+msgstr ""
+
+#: functions.php:524
+msgid "Add widgets here to appear in your"
+msgstr ""
+
+#: functions.php:1378
+msgid "Remove"
+msgstr ""
+
+#: functions.php:2032
+msgid "Author posts"
+msgstr ""
+
+#: functions.php:2165
+msgid "View all posts"
+msgstr ""
+
+#: functions.php:2389
+msgid "Nothing Found"
+msgstr ""
+
+#: functions.php:2389
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"some different keywords."
+msgstr ""
+
+#: functions.php:2391
+msgid "Search"
+msgstr ""
+
+#: functions.php:3075
+msgid "Multipurpose Theme"
+msgstr ""
+
+#: functions.php:3076
+msgid "XtraTheme"
+msgstr ""
